@@ -1,0 +1,16 @@
+{
+  "name": "expressworks",
+  "version": "1.0.0",
+  "description": "poke",
+  "main": "index.js",
+  "repository": "https://nateinaction@github.com/nateinaction/expressworks.git",
+  "author": "Nate Gay <nate@ohnate.com>",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "jade": "^1.11.0",
+    "pug": "^2.0.0-beta6",
+    "stylus": "^0.54.5"
+  }
+}
